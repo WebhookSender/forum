@@ -5,5 +5,5 @@
 <br>
 This repository is for registering subdomains on is-probably.gay!
 
-![Visitors](https://count.getloli.com/get/@a)
+![Visitors](https://count.getloli.com/get/@a?theme=rule34)
 </center>
