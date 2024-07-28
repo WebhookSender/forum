@@ -2,6 +2,7 @@
 
 # is-probably.gay Free Subdomain  
 [![Discord](https://img.shields.io/discord/822426820447567872)](https://discord.gg/H3BdTvE2K2)
+<br>
 This repository is for registering subdomains on is-probably.gay!
 
 ![Visitors](https://count.getloli.com/get/@a)
